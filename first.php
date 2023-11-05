@@ -18,7 +18,7 @@
                         <li><a href="">Home</a></li>
                         <li><a href="">About</a></li>
                         <li><a href="">Services</a></li>
-                        <li><a href="">Contact Us</a></li>
+                        
                         
                         
                     </ul>
@@ -31,10 +31,10 @@
                 <div class="grid">
                     <div class="home-text">
                         <br><br><br><br><br><br><br><br><br><br>
-                        <h1>Need cleanning services ?</h1>
+                        <h1>Basic Home services ?</h1>
                         <p>Welcome to our site Service match </p>
                         <div class="btn-wrap">
-                            <a href="#about" class="btn">know more</a>
+                            <a href="./login_form.php" class="btn">know more</a>
                         </div>
                     </div>
                     <div class='home-img'>
@@ -58,13 +58,11 @@
                     <div class="about-text">
                         <div class="section-title">
                             <span class="title">About Us</span>
-                            <h2 class="sub-title">We provide all types of cleanning service</h2>
+                            <h2 class="sub-title">We provide all types of Basic Home services</h2>
                         </div>
-                        <p>dhuhwucwnweuiweufnw9nfuwefwfweufiwfwfunwofuwnfwnuwefweiwuwinw
-                            fyewifnwiwniwnfwinwfwfmwfwwfwwehh
+                        <p>These Service Provide Convenience And comfort to the faculties
                         </p>
-                        <p>dhuhwucwnweuiweufnw9nfuwefwfweufiwfwfunwofuwnfwnuwefweiwuwinw
-                            fyewifnwiwniwnfwinwfwf
+                        <p>This Application is user-Friendly
                         </p>
                         
                     </div>
@@ -80,78 +78,49 @@
                 <div class="grid">
                     <div class="services-item">
                         <div class="img-box">
-                            <img src="img/service/house.jpg" alt="house keeping">
+                            <img src="img/service/housekeeping.jpg" alt="house keeping">
                             <h3>House Keeping</h3>
                         </div>
                     </div>
 
                     <div class="services-item">
                         <div class="img-box">
-                            <img src="img/service/window.jpg" alt="Maid">
-                            <h3>Maid</h3>
+                            <img src="img/service/cooking2.jpg" alt="Cooking Service">
+                            <h3>Cooking</h3>
                         </div>
                     </div>
 
                     <div class="services-item">
                         <div class="img-box">
-                            <img src="img/service/house.jpg" alt="Dusting">
-                            <h3>Dusting</h3>
+                            <img src="img/service/plumber.jpg" alt="Plumber Service">
+                            <h3>Plumber</h3>
                         </div>
                     </div>
 
                     <div class="services-item">
                         <div class="img-box">
-                            <img src="img/service/house.jpg" alt="Take Care Service">
-                            <h3>Take Care</h3>
+                            <img src="img/service/getcare.jpg" alt="Get Care Service">
+                            <h3>CareTaker</h3>
                         </div>
                     </div>
 
                     <div class="services-item">
                         <div class="img-box">
-                            <img src="img/service/house.jpg" alt="Driver">
-                            <h3>Driver</h3>
+                            <img src="img/service/elec.jpg" alt="Electrician Service">
+                            <h3>Electrician</h3>
                         </div>
                     </div>
                     
                     <div class="services-item">
                         <div class="img-box">
-                            <img src="img/service/house.jpg" alt="Driver">
+                            <img src="img/service/driver.jpg" alt="Driver Service">
                             <h3>Driver</h3>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-        <section class="contact section-padding" id="contact">
-            <div class="container">
-                <div class="section title">
-                    <span class="title">contact us</span>
-                    <h2 class="sub-title">Have any Question ?</h2>
-                </div>
-                <div class="grid contatc-grid">
-                    <div class="contact-info">
-                        <div class="contact-info-item">
-                            <i class="fas fa-"></i>
-                            <h3></h3>
-                            <p></p>
-                        </div>
-                        <div class="contact-info-item">
-                            <i class="fas fa-"></i>
-                            <h3></h3>
-                            <p></p>
-                        </div>
-                        <div class="contact-info-item">
-                            <i class="fas fa-"></i>
-                            <h3></h3>
-                            <p></p>
-                        </div>
-
-                        <div class="contact-form"></div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
+        
         </div>
 <script src="main.js"></script>
     </body>
